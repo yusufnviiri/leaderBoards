@@ -12,7 +12,7 @@ export const scores = [
     score: 100,
   },
   {
-    name: 'Deno',
+    name: 'Philip',
     score: 88,
   },
   {
