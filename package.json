@@ -1,8 +1,9 @@
 {
-  "name": "my-webpack-biolerplate",
+  "name": "Leaderboard",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "webpack --watch",
@@ -11,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yusufnviiri/leaderBoards.git"
+    "url": "git+https://github.com/yusufnviiri/leaderBoards.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yusufnviiri/leaderBoards.git"
+    "url": "https://github.com/yusufnviiri/leaderBoards/issues"
   },
-  "homepage": "https://github.com/yusufnviiri/leaderBoards.git",
+  "homepage": "https://github.com/yusufnviiri/leaderBoards#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.7.1",
