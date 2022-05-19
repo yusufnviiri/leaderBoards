@@ -1,56 +1,55 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Leader Board
 
 > Description the project.
-
+This is a JavaScript based project for Leaderboard App
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
+- HTML
+- CSS
+- JavaScript
+- webpack
+- Linters (Lighthouse, Webhint, Stylelint, Eslint)
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[coming]
 
 
-## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+## setup to access the project
+> To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+- Github Account
+- code editor
+- Git
 
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
 
-### Setup
+### setup to access the project
+(go to the terminal in the code editor and put the following git commands)
+- git init
+- git clone https://github.com/yusufnviiri/leaderBoards.git
+- cd To_DO-list
+- open index.html in the editor/browser to view the project contents
+- open style.css to see the CSS styles used in the project.
+- Open index.js to view Javascript files and related import modules
+- run command 'npm start' in the terminal
+- enjoy
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+## 👤Author 
+## 👤 Yusuf Nviiri
+- GitHub: [@yusufnviiri](https://github.com/yusufnviiri)
+- Twitter: [@YNviiri](https://twitter.com/YNviiri)
+- LinkedIn: [yusufnviiri]( https://www.linkedin.com/in/yusuf-nviiri-8b4146206/)
 
 
 
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -63,10 +62,6 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
